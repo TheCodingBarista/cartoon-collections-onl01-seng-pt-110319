@@ -20,4 +20,5 @@ def find_the_cheese(array)
     cheese_types[i]
   else
     nil
+  end
 end
